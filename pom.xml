@@ -58,6 +58,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+        <finalName>springboot_fullstack_image_cicd</finalName>
 	</build>
 
 </project>
